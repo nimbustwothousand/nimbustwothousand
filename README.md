@@ -20,4 +20,4 @@ I'm Jack, a data engineer working in the UK. I love automating things.
 ![Visual Studio Code Badge](https://img.shields.io/badge/-VS_Code-333?style=flat-square&logo=Visual-Studio-Code&logoColor=007acc)
 
 ## About
-Mathematics graduate from Abersytwyth University, I worked as a Data Analyst for three years before moving into my current role as a Data Engineer. I'm a self-taught web developer and I love starting web projects I'll never finish. My dream in life is to automate my job and go travelling. I enjoy video games, reading, and long walks on the beach. 
+Mathematics graduate from Abersytwyth University, I worked as a Data Analyst for three years before moving into my current role as a Data Engineer. I'm a self-taught web developer and I love starting web projects I'll never finish. My dream in life is to automate my income and go travelling. I enjoy video games, reading, and long walks on the beach. 
